@@ -1,5 +1,7 @@
 # projectram
 
+## Git instructions
+
 1) initializing a git repo 
 ```
 git init
