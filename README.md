@@ -1,4 +1,4 @@
-# goyaltest
+# projectram
 
 1) initializing a git repo 
 ```
